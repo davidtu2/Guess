@@ -1,0 +1,2 @@
+cd C:\Users\David\Documents\Visual Studio 2015\Projects\guess\
+C:\Users\David\AppData\Local\Programs\Python\Python36\python.exe guess.py
